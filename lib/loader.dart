@@ -5,7 +5,7 @@ class Loader extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      child: SpinKitRotatingCircle(
+      child:SpinKitRing(
   color: Colors.white,
   size: 50.0,
 ),
