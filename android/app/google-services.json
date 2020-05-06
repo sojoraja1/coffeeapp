@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "778902083450",
+    "firebase_url": "https://justchecking-c0a3c.firebaseio.com",
+    "project_id": "justchecking-c0a3c",
+    "storage_bucket": "justchecking-c0a3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778902083450:android:1893e8d701d899da35e8c3",
+        "android_client_info": {
+          "package_name": "com.godwillhelpme.shivaji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778902083450-20lp6feajr303379g6m0k7m331aiqjj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5SL4Tp7p9OeF7-IoeGmwco8azkW1xzY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778902083450-20lp6feajr303379g6m0k7m331aiqjj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
